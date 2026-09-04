@@ -9,3 +9,4 @@
 ## Privacy
 
 * [Encrypted Amounts](privacy/encrypted-amounts.md)
+* [Proving a Payment](privacy/proving-a-payment.md)
