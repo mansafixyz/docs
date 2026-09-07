@@ -11,3 +11,7 @@
 * [Encrypted Amounts](privacy/encrypted-amounts.md)
 * [Proving a Payment](privacy/proving-a-payment.md)
 * [Keys & Recovery](privacy/keys-and-recovery.md)
+
+## Everyday Use
+
+* [Opening an Account](users/opening-an-account.md)
