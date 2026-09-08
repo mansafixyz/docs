@@ -15,3 +15,4 @@
 ## Everyday Use
 
 * [Opening an Account](users/opening-an-account.md)
+* [Moving Money](users/moving-money.md)
