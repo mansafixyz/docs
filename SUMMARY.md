@@ -17,3 +17,4 @@
 * [Opening an Account](users/opening-an-account.md)
 * [Moving Money](users/moving-money.md)
 * [Handles](users/handles.md)
+* [Activity Feed](users/activity-feed.md)
