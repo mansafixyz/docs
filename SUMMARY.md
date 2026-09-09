@@ -18,3 +18,4 @@
 * [Moving Money](users/moving-money.md)
 * [Handles](users/handles.md)
 * [Activity Feed](users/activity-feed.md)
+* [Wallet & Funding](users/wallet-and-funding.md)
