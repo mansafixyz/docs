@@ -20,3 +20,4 @@
 * [Activity Feed](users/activity-feed.md)
 * [Wallet & Funding](users/wallet-and-funding.md)
 * [Insights](users/insights.md)
+* [Alerts](users/alerts.md)
