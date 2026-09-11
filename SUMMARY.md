@@ -21,4 +21,5 @@
 * [Wallet & Funding](users/wallet-and-funding.md)
 * [Insights](users/insights.md)
 * [Alerts](users/alerts.md)
+* [Developer Settings](users/developer-settings.md)
 * [Settings](users/settings.md)
