@@ -21,3 +21,4 @@
 * [Wallet & Funding](users/wallet-and-funding.md)
 * [Insights](users/insights.md)
 * [Alerts](users/alerts.md)
+* [Settings](users/settings.md)
