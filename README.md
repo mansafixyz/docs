@@ -12,6 +12,19 @@ The same account holds a freelancer collecting USDG on a Tuesday afternoon and a
 
 ---
 
+## Against the alternatives
+
+| | MansaFi | Ordinary crypto wallet | Retail bank |
+|---|---|---|---|
+| Amount visibility | Ciphertext on-chain | Plaintext, permanently | Private from outsiders, open to the institution |
+| Who holds keys | You, on your hardware | You | The bank |
+| Time to finality | Under a second | Under a second | Days |
+| Software principals | Native wallets with enforced limits | An API bolted to a human account | Not a concept |
+| Disclosure | Per-transaction proofs you issue | Nothing to disclose; all public | Institution decides |
+| Getting started | A passkey and an ID check | Twelve words on paper | Application, then wait |
+
+---
+
 ## The chain underneath
 
 MansaFi deploys its own confidential token contracts to Robinhood Chain, the AI-native Ethereum Layer 2 Robinhood operates. Those contracts hold balances as ciphertext and accept transfers accompanied by zero-knowledge proofs, leaving the participating addresses in plain view. With 100ms blocks and rollup economics beneath it, the combination clears a bar no previous chain quite reached: private, instant, self-custodied payments that a normal person can afford to make.
