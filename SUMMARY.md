@@ -23,3 +23,7 @@
 * [Alerts](users/alerts.md)
 * [Developer Settings](users/developer-settings.md)
 * [Settings](users/settings.md)
+
+## Agents
+
+* [Agent Wallets](agents/agent-wallets.md)
