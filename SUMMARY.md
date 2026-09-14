@@ -28,3 +28,4 @@
 
 * [Agent Wallets](agents/agent-wallets.md)
 * [Policy Engine](agents/policy-engine.md)
+* [x402](agents/x402.md)
