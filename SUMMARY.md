@@ -27,3 +27,4 @@
 ## Agents
 
 * [Agent Wallets](agents/agent-wallets.md)
+* [Policy Engine](agents/policy-engine.md)
