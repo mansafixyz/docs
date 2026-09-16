@@ -34,3 +34,4 @@
 ## Protocol
 
 * [System Design](protocol/system-design.md)
+* [Contracts](protocol/contracts.md)
