@@ -36,3 +36,7 @@
 * [System Design](protocol/system-design.md)
 * [Contracts](protocol/contracts.md)
 * [Threat Model](protocol/threat-model.md)
+
+## API Reference
+
+* [Auth & Keys](api/auth-and-keys.md)
