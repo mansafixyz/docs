@@ -43,3 +43,4 @@
 * [Accounts & Balances](api/accounts.md)
 * [Transfers](api/transfers.md)
 * [Agents & Spend Policies](api/agents.md)
+* [Webhooks](api/webhooks.md)
