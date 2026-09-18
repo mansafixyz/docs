@@ -42,3 +42,4 @@
 * [Auth & Keys](api/auth-and-keys.md)
 * [Accounts & Balances](api/accounts.md)
 * [Transfers](api/transfers.md)
+* [Agents & Spend Policies](api/agents.md)
