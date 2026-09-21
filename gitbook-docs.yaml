@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=https://api.gitbook.com/gitbook-docs.yaml
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+
+site:
+  title: MansaFi Docs
+  structure:
+    - type: space
+      key: space-overview
+      title: Start Here
+      path: overview
+      default: true
+      content:
+        directory: ./overview
+
+    - type: space
+      key: space-privacy
+      title: Privacy
+      path: privacy
+      content:
+        directory: ./privacy
+
+    - type: space
+      key: space-users
+      title: Everyday Use
+      path: users
+      content:
+        directory: ./users
+
+    - type: space
+      key: space-agents
+      title: Agents
+      path: agents
+      content:
+        directory: ./agents
+
+    - type: space
+      key: space-protocol
+      title: Protocol
+      path: protocol
+      content:
+        directory: ./protocol
+
+    - type: space
+      key: space-api
+      title: API Reference
+      path: api
+      content:
+        directory: ./api
+
+    - type: space
+      key: space-compliance
+      title: Compliance
+      path: compliance
+      content:
+        directory: ./compliance
+
+    - type: space
+      key: space-resources
+      title: Resources
+      path: resources
+      content:
+        directory: ./resources
