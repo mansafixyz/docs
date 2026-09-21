@@ -2,62 +2,16 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 version: 1
 
+# Navigation for this site is defined by ./SUMMARY.md, not by this file.
+# The single space below syncs the whole repository, so GitBook builds the
+# sidebar from SUMMARY.md's groups and uses ./README.md as the landing page.
 site:
   title: MansaFi Docs
   structure:
     - type: space
-      key: space-overview
-      title: Start Here
-      path: overview
+      key: space-docs
+      title: MansaFi Docs
+      path: docs
       default: true
       content:
-        directory: ./overview
-
-    - type: space
-      key: space-privacy
-      title: Privacy
-      path: privacy
-      content:
-        directory: ./privacy
-
-    - type: space
-      key: space-users
-      title: Everyday Use
-      path: users
-      content:
-        directory: ./users
-
-    - type: space
-      key: space-agents
-      title: Agents
-      path: agents
-      content:
-        directory: ./agents
-
-    - type: space
-      key: space-protocol
-      title: Protocol
-      path: protocol
-      content:
-        directory: ./protocol
-
-    - type: space
-      key: space-api
-      title: API Reference
-      path: api
-      content:
-        directory: ./api
-
-    - type: space
-      key: space-compliance
-      title: Compliance
-      path: compliance
-      content:
-        directory: ./compliance
-
-    - type: space
-      key: space-resources
-      title: Resources
-      path: resources
-      content:
-        directory: ./resources
+        directory: .
