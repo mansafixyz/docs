@@ -49,3 +49,7 @@
 
 * [Regulatory Posture](compliance/regulatory-posture.md)
 * [Identity Verification](compliance/identity-verification.md)
+
+## Resources
+
+* [FAQ](resources/faq.md)
