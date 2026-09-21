@@ -48,3 +48,4 @@
 ## Compliance
 
 * [Regulatory Posture](compliance/regulatory-posture.md)
+* [Identity Verification](compliance/identity-verification.md)
