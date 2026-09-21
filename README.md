@@ -30,3 +30,22 @@ The same account holds a freelancer collecting USDG on a Tuesday afternoon and a
 MansaFi deploys its own confidential token contracts to Robinhood Chain, the AI-native Ethereum Layer 2 Robinhood operates. Those contracts hold balances as ciphertext and accept transfers accompanied by zero-knowledge proofs, leaving the participating addresses in plain view. With 100ms blocks and rollup economics beneath it, the combination clears a bar no previous chain quite reached: private, instant, self-custodied payments that a normal person can afford to make.
 
 Balances are denominated in USDG, Paxos' Global Dollar issued natively on the chain, with bridged USDC accepted alongside it. A sliver of ETH is kept topped up in the background to pay gas, which is the last you will hear about gas.
+
+---
+
+## Pick a starting point
+
+**Curious how a transfer actually executes?**
+→ [Anatomy of a Transfer](overview/anatomy-of-a-transfer.md)
+
+**Here to move your own money?**
+→ [Opening an Account](users/opening-an-account.md)
+
+**Putting an autonomous system to work?**
+→ [Agent Wallets](agents/agent-wallets.md)
+
+**Wiring MansaFi into something you're building?**
+→ [API: Auth & Keys](api/auth-and-keys.md)
+
+**Want the cryptography, unabridged?**
+→ [Encrypted Amounts](privacy/encrypted-amounts.md)
